@@ -1,0 +1,27 @@
+id: IFD2078F8
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-30T01:25:34+00:00'
+last_modified: '2022-06-08T16:33:00.419816+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W3CN3345
+  title: རྡོ་རྗེ་རྒྱལ་པོའི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    185C:
+      image_group_id: I3CN3451
+      title: ''
+      total_pages: 236
+      order: 1
+      base_file: 185C.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
